@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Privacy Shield / Two-finger touch emblem -->
+    <!-- Outer biometric circle ring -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeAlpha="0.4"
+        android:strokeWidth="1.5"
+        android:pathData="M32,4 A28,28 0 1 0 32,60 A28,28 0 1 0 32,4 Z" />
+    <!-- Index finger pill -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.9"
+        android:pathData="M24,18 C26.2,18 28,19.8 28,22 L28,40 C28,42.2 26.2,44 24,44 C21.8,44 20,42.2 20,40 L20,22 C20,19.8 21.8,18 24,18 Z" />
+    <!-- Middle finger pill -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.9"
+        android:pathData="M38,14 C40.2,14 42,15.8 42,18 L42,40 C42,42.2 40.2,44 38,44 C35.8,44 34,42.2 34,40 L34,18 C34,15.8 35.8,14 38,14 Z" />
+</vector>

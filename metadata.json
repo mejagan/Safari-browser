@@ -1,0 +1,7 @@
+{
+  "name": "Liquid Browser",
+  "description": "Safari-inspired Android web browser with Liquid Glass visual design, multi-tab browsing, ad/tracker protection, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
